@@ -5,7 +5,7 @@ This is a working release of the code for FedHarmony Any issues please contact: 
 
 Software Versions:
 
-PyTorch 1.12.0
+- PyTorch 1.12.0
 
-Python 3.6.8
+- Python 3.6.8
 
