@@ -1,7 +1,7 @@
-# SFHarmony
+# SFHarmony - Source Free Domain Adaptation for Distributed Neuroimaging Analysis
 Source code for SFHarmony
 
-This is a working release of the code for FedHarmony Any issues please contact: nicola.dinsdale@cs.ox.ac.uk. Further code will be added in time.
+This is a working release of the code for SFHarmony Any issues please contact: nicola.dinsdale@cs.ox.ac.uk. Further code will be added in time.
 
 Software Versions:
 
