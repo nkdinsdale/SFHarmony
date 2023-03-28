@@ -9,3 +9,4 @@ Software Versions:
 
 - Python 3.6.8
 
+![network architecture](/figures/architecture.png)
